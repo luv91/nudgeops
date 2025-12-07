@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "nudgeops"
-version = "0.2.2"
+version = "0.2.4"
 description = "Runtime semantic guardrails for AI agents. Detect loops. Nudge agents back on track."
 readme = "README.md"
 license = {text = "MIT"}
